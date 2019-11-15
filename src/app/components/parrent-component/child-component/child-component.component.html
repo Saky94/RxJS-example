@@ -1,0 +1,6 @@
+<div>
+  <input type="text" [formControl]="filter">
+  <div>
+    <li *ngFor="let airport of airports"> {{ airport.name }}</li>
+  </div>
+</div>

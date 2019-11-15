@@ -1,0 +1,36 @@
+{
+    "messages": [],
+    "data": [
+        {
+            "cityPairs": [
+                {
+                    "airport": "DUB",
+                    "city": "Dublin",
+                    "country": "Ireland",
+                    "region": "Ireland"
+                },
+                {
+                    "airport": "LON",
+                    "city": "London England Area",
+                    "country": "United Kingdom",
+                    "region": "GB"
+                }
+            ]
+        }
+    ],
+    "extensions": [],
+    "correlationId": "b1ec0005-f80e-4695-8cf3-513c1718032a",
+    "statusCode": "success",
+    "redirectUrl": null,
+    "profile": null,
+    "config": {
+        "properties": {
+            "responseFactoryConfiguration": {
+                "activeSessionTime": 1200,
+                "popUpDisplayTime": 120
+            },
+            "UBP2": "true"
+        }
+    },
+    "exceptionIdList": ""
+}

@@ -1,0 +1,2833 @@
+{
+    "data": {
+        "type": "flights",
+        "attributes": {
+            "flowType": null,
+            "familyFirst": false,
+            "isValidPromoCode": true,
+            "isAllCorpFare": false,
+            "currency": "EUR"
+        },
+        "journey": {
+            "outbound": {
+                "isFlightFlown": false,
+                "isAlreadyUpgraded": false,
+                "message": null,
+                "isLongHaul": false,
+                "isTransatlantic": false,
+                "isNorthAmerican": false,
+                "isUk": false,
+                "flights": [
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "1",
+                                    "type": "low",
+                                    "price": 324.99,
+                                    "seats": 6,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "POW26",
+                                            "flightNumber": "EI178"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "2",
+                                    "type": "plus",
+                                    "price": 364.99,
+                                    "seats": 6,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26PLUS",
+                                            "flightNumber": "EI178"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "21",
+                                    "type": "flex",
+                                    "price": 397.99,
+                                    "seats": 6,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26FLEX",
+                                            "flightNumber": "EI178"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-06-28T18:00:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T19:20:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "info": {
+                                    "number": "178",
+                                    "code": "EI 178",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "3",
+                                    "type": "low",
+                                    "price": 324.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "POW26",
+                                            "flightNumber": "EI182"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "4",
+                                    "type": "plus",
+                                    "price": 364.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26PLUS",
+                                            "flightNumber": "EI182"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "22",
+                                    "type": "flex",
+                                    "price": 397.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26FLEX",
+                                            "flightNumber": "EI182"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-06-28T19:00:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T20:20:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "info": {
+                                    "number": "182",
+                                    "code": "EI 182",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "5",
+                                    "type": "low",
+                                    "price": 324.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "POW26",
+                                            "flightNumber": "EI184"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "6",
+                                    "type": "plus",
+                                    "price": 364.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26PLUS",
+                                            "flightNumber": "EI184"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "23",
+                                    "type": "flex",
+                                    "price": 397.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26FLEX",
+                                            "flightNumber": "EI184"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-06-28T20:10:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T21:30:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "info": {
+                                    "number": "184",
+                                    "code": "EI 184",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h15",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "7",
+                                    "type": "low",
+                                    "price": 324.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "POW26",
+                                            "flightNumber": "EI186"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "8",
+                                    "type": "plus",
+                                    "price": 364.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26PLUS",
+                                            "flightNumber": "EI186"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "24",
+                                    "type": "flex",
+                                    "price": 397.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "PA26FLEX",
+                                            "flightNumber": "EI186"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h15m",
+                                "departure": {
+                                    "date": "2019-06-28T21:10:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T22:25:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "info": {
+                                    "number": "186",
+                                    "code": "EI 186",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h35",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "9",
+                                    "type": "low",
+                                    "price": 359.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "DOW26",
+                                            "flightNumber": "EI288"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "10",
+                                    "type": "plus",
+                                    "price": 399.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "DA26PLUS",
+                                            "flightNumber": "EI288"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "25",
+                                    "type": "flex",
+                                    "price": 432.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "DA26FLEX",
+                                            "flightNumber": "EI288"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h35m",
+                                "departure": {
+                                    "date": "2019-06-28T15:40:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T17:15:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "info": {
+                                    "number": "288",
+                                    "code": "EI 288",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h35",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "11",
+                                    "type": "low",
+                                    "price": 394.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YOW26",
+                                            "flightNumber": "EI238"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "12",
+                                    "type": "plus",
+                                    "price": 434.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26PLUS",
+                                            "flightNumber": "EI238"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "26",
+                                    "type": "flex",
+                                    "price": 467.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26FLEX",
+                                            "flightNumber": "EI238"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h35m",
+                                "departure": {
+                                    "date": "2019-06-28T15:05:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T16:40:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "info": {
+                                    "number": "238",
+                                    "code": "EI 238",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "13",
+                                    "type": "low",
+                                    "price": 394.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YOW26",
+                                            "flightNumber": "EI174"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "14",
+                                    "type": "plus",
+                                    "price": 434.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26PLUS",
+                                            "flightNumber": "EI174"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "27",
+                                    "type": "flex",
+                                    "price": 467.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26FLEX",
+                                            "flightNumber": "EI174"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-06-28T15:50:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T17:20:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "info": {
+                                    "number": "174",
+                                    "code": "EI 174",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "15",
+                                    "type": "low",
+                                    "price": 394.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YOW26",
+                                            "flightNumber": "EI176"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "16",
+                                    "type": "plus",
+                                    "price": 434.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26PLUS",
+                                            "flightNumber": "EI176"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "28",
+                                    "type": "flex",
+                                    "price": 467.99,
+                                    "seats": 4,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26FLEX",
+                                            "flightNumber": "EI176"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-06-28T17:00:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T18:20:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "info": {
+                                    "number": "176",
+                                    "code": "EI 176",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h40",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "17",
+                                    "type": "low",
+                                    "price": 394.99,
+                                    "seats": 3,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YOW26",
+                                            "flightNumber": "EI244"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "18",
+                                    "type": "plus",
+                                    "price": 434.99,
+                                    "seats": 3,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26PLUS",
+                                            "flightNumber": "EI244"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "29",
+                                    "type": "flex",
+                                    "price": 467.99,
+                                    "seats": 3,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26FLEX",
+                                            "flightNumber": "EI244"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h40m",
+                                "departure": {
+                                    "date": "2019-06-28T17:45:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T19:25:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "info": {
+                                    "number": "244",
+                                    "code": "EI 244",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h35",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "19",
+                                    "type": "low",
+                                    "price": 394.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YOW26",
+                                            "flightNumber": "EI290"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "20",
+                                    "type": "plus",
+                                    "price": 434.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26PLUS",
+                                            "flightNumber": "EI290"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "30",
+                                    "type": "flex",
+                                    "price": 467.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "YA26FLEX",
+                                            "flightNumber": "EI290"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h35m",
+                                "departure": {
+                                    "date": "2019-06-28T18:00:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "arrival": {
+                                    "date": "2019-06-28T19:35:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "info": {
+                                    "number": "290",
+                                    "code": "EI 290",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "inbound": {
+                "isFlightFlown": false,
+                "isAlreadyUpgraded": false,
+                "message": null,
+                "isLongHaul": false,
+                "isTransatlantic": false,
+                "isNorthAmerican": false,
+                "isUk": true,
+                "flights": [
+                    {
+                        "totalDuration": "1h35",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "31",
+                                    "type": "low",
+                                    "price": 29.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2",
+                                            "flightNumber": "EI231"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "32",
+                                    "type": "plus",
+                                    "price": 69.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2PLUS",
+                                            "flightNumber": "EI231"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "77",
+                                    "type": "flex",
+                                    "price": 107.98,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI231"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "82",
+                                    "type": "aerspace",
+                                    "price": 159.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI231"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h35m",
+                                "departure": {
+                                    "date": "2019-09-30T09:40:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T11:15:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "231",
+                                    "code": "EI 231",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "S"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "33",
+                                    "type": "low",
+                                    "price": 29.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2",
+                                            "flightNumber": "EI233"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "34",
+                                    "type": "plus",
+                                    "price": 69.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2PLUS",
+                                            "flightNumber": "EI233"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "78",
+                                    "type": "flex",
+                                    "price": 107.98,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI233"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "83",
+                                    "type": "aerspace",
+                                    "price": 159.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI233"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-09-30T10:55:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T12:25:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "233",
+                                    "code": "EI 233",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "S"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "35",
+                                    "type": "low",
+                                    "price": 29.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2",
+                                            "flightNumber": "EI237"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "36",
+                                    "type": "plus",
+                                    "price": 69.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2PLUS",
+                                            "flightNumber": "EI237"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "79",
+                                    "type": "flex",
+                                    "price": 107.98,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI237"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "84",
+                                    "type": "aerspace",
+                                    "price": 159.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI237"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-09-30T15:15:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T16:45:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "237",
+                                    "code": "EI 237",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "S"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "37",
+                                    "type": "low",
+                                    "price": 29.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2",
+                                            "flightNumber": "EI245"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "38",
+                                    "type": "plus",
+                                    "price": 69.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2PLUS",
+                                            "flightNumber": "EI245"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "80",
+                                    "type": "flex",
+                                    "price": 107.98,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI245"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "85",
+                                    "type": "aerspace",
+                                    "price": 159.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI245"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T20:10:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T21:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "245",
+                                    "code": "EI 245",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "S"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "39",
+                                    "type": "low",
+                                    "price": 29.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2",
+                                            "flightNumber": "EI249"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "40",
+                                    "type": "plus",
+                                    "price": 69.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "APS2PLUS",
+                                            "flightNumber": "EI249"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "81",
+                                    "type": "flex",
+                                    "price": 107.98,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI249"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "86",
+                                    "type": "aerspace",
+                                    "price": 159.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI249"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T22:25:00.000",
+                                    "airportCode": "LGW"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T23:45:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "249",
+                                    "code": "EI 249",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "S"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "41",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI159"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "42",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI159"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "87",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI159"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "108",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI159"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-09-30T12:00:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T13:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "159",
+                                    "code": "EI 159",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "43",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI163"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "44",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI163"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "88",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI163"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "109",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI163"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-09-30T13:25:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T14:55:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "163",
+                                    "code": "EI 163",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h25",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "45",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI165"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "46",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI165"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "89",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI165"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "110",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI165"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h25m",
+                                "departure": {
+                                    "date": "2019-09-30T14:15:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T15:40:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "165",
+                                    "code": "EI 165",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "47",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI167"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "48",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI167"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "90",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI167"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "111",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI167"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-09-30T15:50:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T17:20:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "167",
+                                    "code": "EI 167",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "49",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI175"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "50",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI175"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "91",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI175"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "112",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI175"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T18:10:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T19:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "175",
+                                    "code": "EI 175",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "51",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI177"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "52",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI177"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "92",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI177"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "113",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI177"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T19:10:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T20:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "177",
+                                    "code": "EI 177",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "53",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI179"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "54",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI179"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "93",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI179"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "114",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI179"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T20:10:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T21:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "179",
+                                    "code": "EI 179",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "55",
+                                    "type": "low",
+                                    "price": 67.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98A",
+                                            "flightNumber": "EI183"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "56",
+                                    "type": "plus",
+                                    "price": 107.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "A98APLUS",
+                                            "flightNumber": "EI183"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "94",
+                                    "type": "flex",
+                                    "price": 145.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI183"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "115",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI183"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T21:10:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T22:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "183",
+                                    "code": "EI 183",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h40",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "57",
+                                    "type": "low",
+                                    "price": 71.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AOW26",
+                                            "flightNumber": "EI281"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "58",
+                                    "type": "plus",
+                                    "price": 111.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26PLUS",
+                                            "flightNumber": "EI281"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "95",
+                                    "type": "flex",
+                                    "price": 144.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI281"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "116",
+                                    "type": "aerspace",
+                                    "price": 191.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI281"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h40m",
+                                "departure": {
+                                    "date": "2019-09-30T08:45:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T10:25:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "281",
+                                    "code": "EI 281",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": null
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h35",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "59",
+                                    "type": "low",
+                                    "price": 61.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AOW26",
+                                            "flightNumber": "EI283"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "60",
+                                    "type": "plus",
+                                    "price": 101.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26PLUS",
+                                            "flightNumber": "EI283"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "96",
+                                    "type": "flex",
+                                    "price": 134.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI283"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "117",
+                                    "type": "aerspace",
+                                    "price": 191.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI283"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h35m",
+                                "departure": {
+                                    "date": "2019-09-30T09:40:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T11:15:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "283",
+                                    "code": "EI 283",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": null
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h25",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "61",
+                                    "type": "low",
+                                    "price": 61.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AOW26",
+                                            "flightNumber": "EI285"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "62",
+                                    "type": "plus",
+                                    "price": 101.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26PLUS",
+                                            "flightNumber": "EI285"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "97",
+                                    "type": "flex",
+                                    "price": 134.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI285"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "118",
+                                    "type": "aerspace",
+                                    "price": 191.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI285"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h25m",
+                                "departure": {
+                                    "date": "2019-09-30T13:30:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T14:55:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "285",
+                                    "code": "EI 285",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": null
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h25",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "63",
+                                    "type": "low",
+                                    "price": 61.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AOW26",
+                                            "flightNumber": "EI287"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "64",
+                                    "type": "plus",
+                                    "price": 101.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26PLUS",
+                                            "flightNumber": "EI287"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "98",
+                                    "type": "flex",
+                                    "price": 134.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI287"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "119",
+                                    "type": "aerspace",
+                                    "price": 191.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI287"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h25m",
+                                "departure": {
+                                    "date": "2019-09-30T15:30:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T16:55:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "287",
+                                    "code": "EI 287",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": null
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h35",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "65",
+                                    "type": "low",
+                                    "price": 71.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AOW26",
+                                            "flightNumber": "EI289"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "66",
+                                    "type": "plus",
+                                    "price": 111.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26PLUS",
+                                            "flightNumber": "EI289"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "99",
+                                    "type": "flex",
+                                    "price": 144.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI289"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "120",
+                                    "type": "aerspace",
+                                    "price": 191.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI289"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h35m",
+                                "departure": {
+                                    "date": "2019-09-30T17:45:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T19:20:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "289",
+                                    "code": "EI 289",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": null
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h25",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "67",
+                                    "type": "low",
+                                    "price": 61.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AOW26",
+                                            "flightNumber": "EI291"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "68",
+                                    "type": "plus",
+                                    "price": 101.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26PLUS",
+                                            "flightNumber": "EI291"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "100",
+                                    "type": "flex",
+                                    "price": 134.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "AA26FLEX",
+                                            "flightNumber": "EI291"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "121",
+                                    "type": "aerspace",
+                                    "price": 191.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI291"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h25m",
+                                "departure": {
+                                    "date": "2019-09-30T20:05:00.000",
+                                    "airportCode": "LCY"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T21:30:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "291",
+                                    "code": "EI 291",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "WX",
+                                    "operatingAirlineName": "CityJet  for Aer Lingus",
+                                    "aircraftType": "Avro RJ85 Avroliner",
+                                    "airportTerminal": null
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "69",
+                                    "type": "low",
+                                    "price": 93.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZOW26",
+                                            "flightNumber": "EI149"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "70",
+                                    "type": "plus",
+                                    "price": 133.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26PLUS",
+                                            "flightNumber": "EI149"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "101",
+                                    "type": "flex",
+                                    "price": 166.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26FLEX",
+                                            "flightNumber": "EI149"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "105",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI149"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T06:40:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T08:00:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "149",
+                                    "code": "EI 149",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h20",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "71",
+                                    "type": "low",
+                                    "price": 93.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZOW26",
+                                            "flightNumber": "EI151"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "72",
+                                    "type": "plus",
+                                    "price": 133.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26PLUS",
+                                            "flightNumber": "EI151"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "102",
+                                    "type": "flex",
+                                    "price": 166.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26FLEX",
+                                            "flightNumber": "EI151"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "106",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI151"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h20m",
+                                "departure": {
+                                    "date": "2019-09-30T07:40:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T09:00:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "151",
+                                    "code": "EI 151",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h25",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "73",
+                                    "type": "low",
+                                    "price": 93.99,
+                                    "seats": 8,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZOW26",
+                                            "flightNumber": "EI153"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "74",
+                                    "type": "plus",
+                                    "price": 133.99,
+                                    "seats": 8,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26PLUS",
+                                            "flightNumber": "EI153"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "103",
+                                    "type": "flex",
+                                    "price": 166.99,
+                                    "seats": 8,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26FLEX",
+                                            "flightNumber": "EI153"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "122",
+                                    "type": "aerspace",
+                                    "price": 357.99,
+                                    "seats": 1,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "C18AESP",
+                                            "flightNumber": "EI153"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h25m",
+                                "departure": {
+                                    "date": "2019-09-30T08:50:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T10:15:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "153",
+                                    "code": "EI 153",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "totalDuration": "1h30",
+                        "priceInfo": {
+                            "fares": [
+                                {
+                                    "isSelected": null,
+                                    "id": "75",
+                                    "type": "low",
+                                    "price": 93.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZOW26",
+                                            "flightNumber": "EI155"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "76",
+                                    "type": "plus",
+                                    "price": 133.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26PLUS",
+                                            "flightNumber": "EI155"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "104",
+                                    "type": "flex",
+                                    "price": 166.99,
+                                    "seats": 9,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "ZA26FLEX",
+                                            "flightNumber": "EI155"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isSelected": null,
+                                    "id": "107",
+                                    "type": "aerspace",
+                                    "price": 187.99,
+                                    "seats": 2,
+                                    "basisCodes": [
+                                        {
+                                            "basisCode": "I18AESP",
+                                            "flightNumber": "EI155"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "trips": [
+                            {
+                                "fareOptions": [
+                                    "E",
+                                    "EP",
+                                    "EF",
+                                    "EA"
+                                ],
+                                "stopoverDuration": null,
+                                "duration": "1h30m",
+                                "departure": {
+                                    "date": "2019-09-30T09:50:00.000",
+                                    "airportCode": "LHR"
+                                },
+                                "arrival": {
+                                    "date": "2019-09-30T11:20:00.000",
+                                    "airportCode": "DUB"
+                                },
+                                "info": {
+                                    "number": "155",
+                                    "code": "EI 155",
+                                    "carrierAirlineCode": "EI",
+                                    "carrierAirlineName": "Aer Lingus",
+                                    "operatingAirlineCode": "EI",
+                                    "operatingAirlineName": "Aer Lingus",
+                                    "aircraftType": "AIRBUS A320",
+                                    "airportTerminal": "2"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
