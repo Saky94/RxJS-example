@@ -11,7 +11,6 @@ export class ChildComponentComponent implements OnInit {
   @Input() public airports;
   @Input() public filter$;
   public filter = new FormControl('');
-  // public filter$: Observable<string>;
 
   constructor() { }
 
@@ -19,9 +18,6 @@ export class ChildComponentComponent implements OnInit {
     this.filter.valueChanges.subscribe(filterString => {
       this.filter$.next(filterString);
     });
-    // this.filter.valueChanges.subscribe(data => console.log(data));
-    // this.filter$.subscribe(filterString => console.log(filterString));
-    // console.log(this.airports);
   }
 
 }
